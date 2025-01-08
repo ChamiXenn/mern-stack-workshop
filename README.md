@@ -1,1 +1,1 @@
-# mean-stack-workshop
+# mern-stack-workshop
